@@ -58,8 +58,7 @@ body {
     #nav-pc>a:active {
       color: #0d0d0d;
     }
-    #menu-sp,	
-    #nav-sp{
+    #menu-sp,#nav-sp{
         display: none;
     }
   }
